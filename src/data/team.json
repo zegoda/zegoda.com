@@ -17,14 +17,6 @@
     },
     {
         "enabled": true,
-        "name": "Damon Clifford",
-        "title": "Data & Data Science",
-        "description": "Damon has over two decades of experience in the data and analytics space. Leading diverse teams for startups all the way to Fortune 500 companies such as Ashley Furniture and Diebold Nixodorf.<br/><br/>Damon brings leadership to the data and AI arena, having undertaken enterprise level digital transformations to leverage internal data assets to derive business value. He has successfully implemented multi-million dollar AI initatives aligned with corporate strategy.<br/><br/>His philosophy is stemmed from systematic and first principles thinking which has allowed him to accelerate the value of data, analytics, and data science for organizations.<br/><br/>He has a Master's degree in Applied Data Science from the University of Michigan and a Bachelor's degree in Communication from Central Michigan University.",
-        "image": "damonclifford.jpg",
-        "email": "damon@zegoda.com"
-    },
-    {
-        "enabled": true,
         "name": "Fred Gohsman",
         "title": "Application Development & Integration",
         "description": "Fred is a veteran in the software engineering community.  He co-founded Ketl Internet Consulting, in 1999, and brings this leadership experience with him.  He is a passionate leader and mentor who empowers developers to improve their craft and adopt modern agile and devops practices.<br/><br/>Having consulted mid to large businesses for over 25 years, he has a proven track record in manufacturing, tax & audit, logistics, insurance, restaurant, and healthcare.  Additionally, while at Microsoft, he worked with their largest customers in the oil & gas, hospitality, airlines, and entertainment industries.<br/><br/>A powerful voice in the tech community, he is also an organizer and founding member of several technology user groups in the Tampa area, including the Tampa Bay Games Developer Guild and the Tampa Unity User Group.<br/><br/>Fred holds a Master of Public Administration from Oakland University and a B.S. in Computer Science from the University of Michigan.",
